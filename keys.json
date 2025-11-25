@@ -20,5 +20,11 @@
     "devices": [
       "zzxxccvv00112233"
     ]
+  },
+
+  "g8KBSv5m": {
+    "expire": "2025-11-26",
+    "max_devices": 1,
+    "devices": []
   }
 }
