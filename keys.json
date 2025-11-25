@@ -1,4 +1,24 @@
 {
-  "TEST-KEY-123": { "expire": "2025-12-31 23:59:59" },
-  "NO-EXPIRE-001": { "expire": "" }
+  "TEST-KEY-123": {
+    "expire": "2025-12-31 23:59:59",
+    "max_devices": 2,
+    "devices": [
+      "abcd1234efgh5678",
+      "11223344aabbccdd"
+    ]
+  },
+
+  "VIP-NO-LIMIT": {
+    "expire": "",
+    "max_devices": 1,
+    "devices": []
+  },
+
+  "TRIAL-7DAYS": {
+    "expire": "2025-12-07",
+    "max_devices": 1,
+    "devices": [
+      "zzxxccvv00112233"
+    ]
+  }
 }
