@@ -32,7 +32,7 @@
 
   "M82QTAGo": {
     "expire": "2025-12-26",
-    "max_devices": 1,
+    "max_devices": 2,
     "devices": [
       "f35ad34d6589d370"
     ]
