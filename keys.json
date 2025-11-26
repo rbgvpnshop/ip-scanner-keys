@@ -37,5 +37,13 @@
       "f35ad34d6589d370",
       "e5373ad15db57b90"
     ]
+    },
+
+  "wY1oscZveKTK": {
+    "expire": "2025-12-26",
+    "max_devices": 1,
+    "devices": [
+      "d31ec6edb5392141"
+    ]
   }
 }
