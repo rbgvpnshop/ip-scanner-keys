@@ -1,0 +1,14 @@
+{
+  "MYAPIKEY1": {
+    "expire": "2025-12-31 23:59:59",
+    "max_devices": 1,
+    "devices": [
+      "88f016acfd9c265c"
+    ]
+  },
+  "TESTAPI": {
+    "expire": "",
+    "max_devices": 1,
+    "devices": []
+  }
+}
