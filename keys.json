@@ -23,7 +23,7 @@
   },
 
   "g8KBSv5m": {
-    "expire": "2025-12-27 11:03:59",
+    "expire": "2025-12-26 11:10:59",
     "max_devices": 1,
     "devices": [
       "88f016acfd9c265c"
@@ -34,7 +34,7 @@
     "expire": "2025-12-26",
     "max_devices": 2,
     "devices": [
-      "f35ad34d6589d370"
+      "f35ad34d6589d370",
       "e5373ad15db57b90"
     ]
   }
