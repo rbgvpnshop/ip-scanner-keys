@@ -25,9 +25,11 @@
     "devices": []
   },
 
-  "VIP-NO-LIMIT": {
-    "expire": "",
-    "max_devices": 9999,
-    "devices": []
+  "VEn21kDdA6BhGjzz": {
+    "expire": "2026-11-26 22:59:59",
+    "max_devices": 1,
+    "devices": [
+      "19875fd18e5d7361"
+    ]
   }
 }
