@@ -1,1 +1,10 @@
-
+{
+  "UID_xxxx": {
+    "key": "KEY_CODE",
+    "expires": "2025-12-31T23:59:59"
+  },
+  "UID_yyyy": {
+    "key": "ANOTHER_KEY",
+    "expires": "2026-01-15"
+  }
+}
